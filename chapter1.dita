@@ -3,7 +3,7 @@
 <topic id="topic_zjq_b2y_c3b">
     <title>chapter 1</title>
     <body>
-        <p><?oxy_comment_start author="nagendrakumars" timestamp="20190618T225250+0530" comment="sentence is not correct"?>hello
+        <p><?oxy_comment_start author="nagendrakumars" timestamp="20190618T225250+0530" comment="sentence is not correct" flag="done"?>hello
             this is chapter 1<?oxy_comment_end?></p>
         <p><image href="Desert.jpg" id="image_gbr_t2y_c3b" width="50"/></p>
         <table id="table_bjf_42y_c3b">
