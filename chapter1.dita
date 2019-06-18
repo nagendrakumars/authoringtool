@@ -7,7 +7,7 @@
             this is chapter 1<?oxy_comment_end?></p>
         <p><image href="Desert.jpg" id="image_gbr_t2y_c3b" width="50"/></p>
         <table id="table_bjf_42y_c3b">
-            <title>my table</title>
+            <title> table sample</title>
             <tgroup cols="2">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
